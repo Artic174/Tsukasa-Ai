@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="" width="250"/>
+  <img src="https://files.catbox.moe/d4iulg.jpg" width="250"/>
 </p>
 
 <h1 align="center">Tsukasa Ai - WhatsApp Bot</h1>
@@ -10,8 +10,8 @@
 
 ## 👤 Owner
 
-> GitHub: [LeooxzyDekuu](https://github.com/LeooxzyDekuu.png)  
-> Project: **Rin Okumura WhatsApp Bot**
+> GitHub: [Artic174](https://github.com/LeooxzyDekuu.png)  
+> Project: **Tsukasa Ai WhatsApp Bot**
 
 ---
 
@@ -37,29 +37,29 @@ const config = {
     name: "Tsukasa Ai",
     ownername: 'Yuzaki Nasa', 
     ownername2: 'Yuzaki Network',
-    image: { url: 'https://i.pinimg.com/1200x/a0/91/28/a09128ba3e6cb7b34f6df2f2c9938410.jpg' }, //thumbnail: fs.readFileSync('./image/tambahkan-ft-trus-kasih-nama')
+    image: { url: 'https://files.catbox.moe/d4iulg.jpg' }, //thumbnail: fs.readFileSync('./image/tambahkan-ft-trus-kasih-nama')
     thumbnail: {
-      thumbnailUrl: 'https://i.pinimg.com/1200x/a0/91/28/a09128ba3e6cb7b34f6df2f2c9938410.jpg'
+      thumbnailUrl: 'https://files.catbox.moe/d4iulg.jpg'
       //thumbnail: fs.readFileSync('./image/tambahkan-ft-trus-kasih-nama')
     },
     isQr = false,
     prefix: [".", "?", "!", "/", "#"], //Tambahin sendiri prefix nya kalo kurang
-    wagc: [ "https://chat.whatsapp.com/JyeT1hdCPJeLy95tzx5eyI", "https://chat.whatsapp.com/DfffgArbTUu46nqCgmCbE0" ],
-    saluran: '120363279195205552@newsletter', 
-    jidgroupnotif: '120363266755712733@g.us', 
-    saluran2: '120363335701540699@newsletter', 
+    wagc: [ "https://chat.whatsapp.com/K38kIZaM7ms2ZDnvpwmUSB", "https://chat.whatsapp.com/CMND3t4Pkcb6MSV0pHeEg3" ],
+    saluran: '120363386413320563@newsletter', 
+    jidgroupnotif: '120363416967696533@g.us',  
+    saluran2: '120363405170938560@newsletter', 
     jidgroup: '120363267102694949@g.us', 
-    wach: 'https://whatsapp.com/channel/0029VadFS3r89inc7Jjus03W', 
+    wach: 'https://whatsapp.com/channel/0029Vb4ngq4CxoB5889HOQ2V', 
     sessions: "sessions",
     groq: {
      api: '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'
     },
     link: {
-     tt: "https://www.tiktok.com/@leooxzy_ganz/"
+     tt: "https://www.tiktok.com/@_yuzakinasa/"
     },
     sticker: {
-      packname: "〆 Rin-Kun",
-      author: "By: Deku/Dxyz 〆"
+      packname: "Send With Love~",
+      author: "By: Tsukasa Ai"
     },
    messages: {
       wait: "*( Loading )* Tunggu Sebentar...",
@@ -67,9 +67,9 @@ const config = {
       premium: "*( Denied )* Fitur ini khusus user premium",
       group: "*( Denied )* Fitur ini khusus group",
       botAdmin: "*( Denied )* Lu siapa bukan Admin group",
-      grootbotbup: "*( Denied )* Jadiin Yuta-Botz admin dulu baru bisa akses",
+      grootbotbup: "*( Denied )* Jadiin Tsukasa admin dulu baru bisa akses",
    },
-   database: "hanako-db",
+   database: "yuzaki-db",
    tz: "Asia/Jakarta"
 }
 
@@ -78,8 +78,8 @@ module.exports = config
 
 ## ⚙️ Install
 ```bash
-$ git clone https://github.com/FrankXz12/HanakoBotz
-$ cd HanakoBotz
+$ git clone https://github.com/Artic174/Tsukasa-Ai
+$ cd Tsukasa-Ai
 $ npm install
 $ npm start
 ```
