@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="https://files.catbox.moe/hubkvg.jpg" width="250"/>
+  <img src="" width="250"/>
 </p>
 
-<h1 align="center">Rin Okumura - WhatsApp Bot</h1>
+<h1 align="center">Tsukasa Ai - WhatsApp Bot</h1>
 
 
 ---
@@ -15,7 +15,7 @@
 
 ---
 
-> Bot WhatsApp modular yang kuat menggunakan JavaScript, dibuat dengan sistem plugin untuk fleksibilitas maksimal. Terinspirasi oleh **Rin Okumura** dari *Blue Exorcist*, bot ini menghadirkan semangat dan disiplin dalam obrolan Anda!
+> Bot WhatsApp modular yang kuat menggunakan JavaScript, dibuat dengan sistem plugin untuk fleksibilitas maksimal. Terinspirasi oleh **Yuzaki Nasa** dari *Tonikaku Kawaii*, bot ini menghadirkan semangat dan disiplin dalam obrolan Anda!
 
 ---
 
@@ -25,7 +25,7 @@
 - Ditulis dalam JavaScript
 - Kompatibel dengan CommonJS & ESModule
 - Pembuatan perintah yang mudah
-- Terinspirasi oleh karakter anime Rin Okumura
+- Terinspirasi oleh karakter anime Yuzaki Nasa
 
 ---
 
@@ -33,10 +33,10 @@
 
 ```javascript
 const config = {
-    owner: ["6282172589188"],
-    name: "Rin-Kun",
-    ownername: 'Leooxzy', 
-    ownername2: 'Dxyz',
+    owner: ["6285136373904"],
+    name: "Tsukasa Ai",
+    ownername: 'Yuzaki Nasa', 
+    ownername2: 'Yuzaki Network',
     image: { url: 'https://i.pinimg.com/1200x/a0/91/28/a09128ba3e6cb7b34f6df2f2c9938410.jpg' }, //thumbnail: fs.readFileSync('./image/tambahkan-ft-trus-kasih-nama')
     thumbnail: {
       thumbnailUrl: 'https://i.pinimg.com/1200x/a0/91/28/a09128ba3e6cb7b34f6df2f2c9938410.jpg'
